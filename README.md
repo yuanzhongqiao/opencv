@@ -1,36 +1,39 @@
-## OpenCV: Open Source Computer Vision Library
-
-
-### Resources
-
-* Homepage: <https://opencv.org>
-  * Courses: <https://opencv.org/courses>
-* Docs: <https://docs.opencv.org/4.x/>
-* Q&A forum: <https://forum.opencv.org>
-  * previous forum (read only): <http://answers.opencv.org>
-* Issue tracking: <https://github.com/opencv/opencv/issues>
-* Additional OpenCV functionality: <https://github.com/opencv/opencv_contrib>
-* Donate to OpenCV: <https://opencv.org/support/>
-
-
-### Contributing
-
-Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/How_to_contribute) before starting work on a pull request.
-
-#### Summary of the guidelines:
-
-* One pull request per issue;
-* Choose the right base branch;
-* Include tests and documentation;
-* Clean up "oops" commits before submitting;
-* Follow the [coding style guide](https://github.com/opencv/opencv/wiki/Coding_Style_Guide).
-
-### Additional Resources
-
-* [Submit your OpenCV-based project](https://form.jotform.com/233105358823151) for inclusion in Community Friday on opencv.org
-* [Subscribe to the OpenCV YouTube Channel](http://youtube.com/@opencvofficial) featuring OpenCV Live, an hour-long streaming show
-* [Follow OpenCV on LinkedIn](http://linkedin.com/company/opencv/) for daily posts showing the state-of-the-art in computer vision &AI
-* [Apply to be an OpenCV Volunteer](https://form.jotform.com/232745316792159) to help organize events and online campaigns as well as amplify them
-* [Follow OpenCV on Mastodon](http://mastodon.social/@opencv) in the Fediverse
-* [Follow OpenCV on Twitter](https://twitter.com/opencvlive)
-* [OpenCV.ai](https://opencv.ai): Computer Vision and AI development services from the OpenCV team.
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h2 tabindex="-1" dir="auto"><a id="user-content-opencv-open-source-computer-vision-library" class="anchor" aria-hidden="true" tabindex="-1" href="#opencv-open-source-computer-vision-library"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenCV：开源计算机视觉库</font></font></h2>
+<h3 tabindex="-1" dir="auto"><a id="user-content-resources" class="anchor" aria-hidden="true" tabindex="-1" href="#resources"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">资源</font></font></h3>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主页： https: </font></font><a href="https://opencv.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//opencv.org</font></font></a>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">课程： https: </font></font><a href="https://opencv.org/courses" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//opencv.org/courses</font></font></a></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档： https: </font></font><a href="https://docs.opencv.org/4.x/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//docs.opencv.org/4.x/</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">问答论坛： https: </font></font><a href="https://forum.opencv.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//forum.opencv.org</font></font></a>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以前的论坛（只读）： http: </font></font><a href="http://answers.opencv.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//answers.opencv.org</font></font></a></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">问题跟踪： https: </font></font><a href="https://github.com/opencv/opencv/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//github.com/opencv/opencv/issues</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">其他 OpenCV 功能： https: </font></font><a href="https://github.com/opencv/opencv_contrib"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//github.com/opencv/opencv_contrib</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">捐赠给 OpenCV： https: </font></font><a href="https://opencv.org/support/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//opencv.org/support/</font></font></a></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-contributing" class="anchor" aria-hidden="true" tabindex="-1" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在开始处理拉取请求之前，</font><font style="vertical-align: inherit;">请阅读</font></font><a href="https://github.com/opencv/opencv/wiki/How_to_contribute"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<h4 tabindex="-1" dir="auto"><a id="user-content-summary-of-the-guidelines" class="anchor" aria-hidden="true" tabindex="-1" href="#summary-of-the-guidelines"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指南摘要：</font></font></h4>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">每个问题一个拉取请求；</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">选择合适的基础分支；</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">包括测试和文档；</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提交前清理“oops”提交；</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">遵循</font></font><a href="https://github.com/opencv/opencv/wiki/Coding_Style_Guide"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编码风格指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-additional-resources" class="anchor" aria-hidden="true" tabindex="-1" href="#additional-resources"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">其他资源</font></font></h3>
+<ul dir="auto">
+<li><a href="https://form.jotform.com/233105358823151" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提交您的基于 OpenCV 的项目</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，以便纳入 opencv.org 上的社区星期五</font></font></li>
+<li><a href="http://youtube.com/@opencvofficial" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">订阅 OpenCV YouTube 频道</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，其中包含 OpenCV Live（一小时的流媒体节目）</font></font></li>
+<li><a href="http://linkedin.com/company/opencv/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 LinkedIn 上关注 OpenCV，</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取展示计算机视觉和人工智能领域最先进技术的每日帖子</font></font></li>
+<li><a href="https://form.jotform.com/232745316792159" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">申请成为 OpenCV 志愿者，</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">帮助组织活动和在线活动并扩大影响力</font></font></li>
+<li><a href="http://mastodon.social/@opencv" rel="nofollow"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Fediverse 中</font><a href="http://mastodon.social/@opencv" rel="nofollow"><font style="vertical-align: inherit;">关注 Mastodon 上的 OpenCV</font></a></font></li>
+<li><a href="https://twitter.com/opencvlive" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Twitter 上关注 OpenCV</font></font></a></li>
+<li><a href="https://opencv.ai" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenCV.ai：OpenCV</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">团队的计算机视觉和人工智能开发服务。</font></font></li>
+</ul>
+</article></div>
